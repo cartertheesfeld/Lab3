@@ -1,3 +1,10 @@
+/*
+Carter Theesfeld
+C++ Fall 2022
+Due September 26, 2022
+Lab 3: User and File I/O
+Program that teaches how to get user input from a file and from the computer 
+*/
 #include <string>
 #include <iostream>
 #include <fstream>
